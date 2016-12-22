@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Better CoffeeScript",
+		"BlameHighlighter",
+		"DashDoc",
+		"Git",
+		"GitGutter",
+		"Handlebars",
+		"Monokai Extended",
+		"Package Control",
+		"Ruby Slim",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeERB",
+		"SublimeLinter-coffeelint",
+		"TrailingSpaces"
+	]
+}

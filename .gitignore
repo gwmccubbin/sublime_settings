@@ -1,0 +1,8 @@
+# Ignore everything...
+*
+# ... except preferences
+!.gitignore
+!Preferences.sublime-settings
+!Package Control.sublime-settings
+!README.md
+
