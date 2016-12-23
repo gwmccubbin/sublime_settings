@@ -1,3 +1,15 @@
 {
-  "spell_check": true
+  "extensions": [
+    "md",
+    "mdown",
+    "markdown",
+    "txt"
+  ],
+  "color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+  "spell_check": true,
+  "tab_size": 4,
+  "translate_tabs_to_spaces": true,
+  "draw_centered": true,
+  "word_wrap": true,
+  "wrap_width": 80,
 }
