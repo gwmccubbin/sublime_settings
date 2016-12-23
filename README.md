@@ -1,5 +1,5 @@
 # My Sublime Text 3 Settings & Packages
-Stolen from this blog post: https://medium.com/@devmount/using-git-to-sync-sublime-text-settings-f70b8dc7a40d#.dl5pzen41
+I had the idea to version control my Sublime Text 3 settings, then stole the implementation from [this blog post](https://medium.com/@devmount/using-git-to-sync-sublime-text-settings-f70b8dc7a40d#.dl5pzen41).
 
 ## TL; DR
 Apply these Submlime Text 3 settings by fetching this repository to your local environment. On a Mac:
